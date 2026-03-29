@@ -25,7 +25,7 @@ failures, and automated reporting processes saving 10+ hours/week.
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | Retail & Warehouse Sales Dashboard | YoY growth, heatmaps, QoQ comparisons, calculated fields | Tableau | [View](https://github.com/jbarrezuetam1/tableau-retail-warehouse-dashboard) |
-| Premier League Dashboard | EPL 2022/23 season performance and relegation analysis | Tableau | [View](https://github.com/jbarrezuetam1/tableau-premier-league-dashboard) |
+| Premier League Dashboard | EPL 2025/26 season performance and relegation analysis | Tableau | [View](https://github.com/jbarrezuetam1/tableau-premier-league-dashboard) |
 | Superstore Profit Analysis | Sales and profit across categories, regions and time | Tableau | [View](https://github.com/jbarrezuetam1/tableau-superstore-profit-analysis) |
 
 ### Python / Machine Learning

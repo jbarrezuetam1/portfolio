@@ -25,8 +25,13 @@ failures, and automated reporting processes saving 10+ hours/week.
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | Retail & Warehouse Sales Dashboard | YoY growth, heatmaps, QoQ comparisons, calculated fields | Tableau | [View](https://github.com/jbarrezuetam1/tableau-retail-warehouse-dashboard) |
-| Premier League Dashboard | EPL 2025/26 season performance and relegation analysis | Tableau | [View](https://github.com/jbarrezuetam1/tableau-premier-league-dashboard) |
+| Premier League Dashboard | 2025/26 Season performance and relegation analysis | Tableau | [View](https://github.com/jbarrezuetam1/tableau-premier-league-dashboard) |
 | Superstore Profit Analysis | Sales and profit across categories, regions and time | Tableau | [View](https://github.com/jbarrezuetam1/tableau-superstore-profit-analysis) |
+
+### Power BI
+| Project | Description | Tools | Link |
+|---------|-------------|-------|------|
+| Sales Performance Dashboard | Employee efficiency analysis with DAX, conditional formatting, and star schema data model | Power BI, DAX, Lightspeed POS | [View](https://github.com/jbarrezuetam1/powerbi-promo-sales-dashboard) |
 
 ### Python / Machine Learning
 | Project | Description | Tools | Link |
@@ -51,7 +56,8 @@ Matplotlib, Seaborn
 Statsmodels), SQL, R
 
 **Analysis:** EDA, Logistic Regression, Linear Regression, 
-Hypothesis Testing, Feature Engineering, Root Cause Analysis
+Hypothesis Testing, Feature Engineering, Root Cause Analysis,
+DAX
 
 **Tools:** Excel (advanced), Jira, MS Office Suite
 
@@ -70,3 +76,4 @@ Hypothesis Testing, Feature Engineering, Root Cause Analysis
 - 🎓 M.S. Data Science — St. Thomas University, Miami FL (2026)
 - 🎓 M.S. Business Administration — ITESM, Mexico (2023)
 - 🎓 B.S. Mechatronics Engineering — ITESM, Mexico (2021)
+
